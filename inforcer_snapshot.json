@@ -1,1 +1,9 @@
-{}
+{
+  "generatedAt": "2026-03-17T14:05:00Z",
+  "kpis": {
+    "avgSecureScore": 0,
+    "avgAlignment": 0,
+    "tenantsInDrift": 0
+  },
+  "tenants": []
+}
